@@ -23,5 +23,11 @@ return (array[index])
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
+   array.unshift(element) 
+      return array
+}
+
+  
+  
   
 }
