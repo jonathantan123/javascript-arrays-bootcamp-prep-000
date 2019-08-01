@@ -23,10 +23,6 @@ return (array[index])
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
-   array.unshift(element) 
-     return ar
-
-  
-  
-  
+   array.shift(element) 
+     return array 
 }
